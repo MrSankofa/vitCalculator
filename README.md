@@ -1,1 +1,3 @@
 # vitCalculator
+
+My first commit
